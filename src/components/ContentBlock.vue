@@ -8,7 +8,6 @@
       <Logo />
       <Filters />
       <UsersBlock />
-
     </v-row>
   </v-container>
 </template>
